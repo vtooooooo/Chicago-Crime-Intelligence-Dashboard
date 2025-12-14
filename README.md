@@ -127,12 +127,10 @@ It includes:
 
 ---
 
-# 📦 **Dataset Source**
+# 📦 **Link**
 
-Chicago Data Portal –
-[https://data.cityofchicago.org](https://data.cityofchicago.org)
-
-(Filtered for **2021–2025**, ~1M records)
+* Chicago Data Portal – [https://data.cityofchicago.org](https://data.cityofchicago.org) (Filtered for **2021–2025**, ~1M records)
+* Power BI Link - [Chicago Crimes Intelligent Dashboard](https://drive.google.com/file/d/1_0d2JK8TvsINF-Xz8KD1S2E-DSH_hUBp/view?usp=drive_link)
 
 ---
 
