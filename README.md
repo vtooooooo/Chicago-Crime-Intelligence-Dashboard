@@ -45,11 +45,19 @@ It includes:
 * YoY % change
 * Total crimes trend over time
 
+![Crime Overview](IMAGES/crime_overview.png)
+
+---
+
 ### **🟦 Page 2 — Geography**
 
 * Crime density map (lat/long)
 * Arrest rates by district
 * Weekend vs weekday crime patterns
+
+![Geography](IMAGES/geography.png)
+
+---
 
 ### **🟩 Page 3 — Time & Seasonality**
 
@@ -58,6 +66,10 @@ It includes:
 * Time-of-day crime analysis
 * MTD, QTD, YTD KPIs
 
+![time](IMAGES/time.png)
+
+---
+
 ### **🟧 Page 4 — Arrest & Severity Analysis**
 
 * Arrest rate by crime type
@@ -65,12 +77,18 @@ It includes:
 * Domestic vs non-domestic crime distribution
 * Valid vs invalid geo-coordinate analysis
 
+![arrest](IMAGES/arrest.png)
+
+---
+
 ### **🟪 Page 5 — Advanced Insights**
 
 * Ranking tables
 * Most active districts
 * Night crime %
 * Decomposition tree (AI-powered root-cause analysis)
+
+![Geography](IMAGES/advanced_insights.png)
 
 ---
 
